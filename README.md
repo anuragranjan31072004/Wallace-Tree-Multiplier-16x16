@@ -47,3 +47,5 @@ The 16×16 Wallace Tree Multiplier was successfully designed, implemented, and v
 
 ### Final Test Results
 ![Final Test Results](images/final_test_results.png)
+> All simulations were performed using ModelSim and verified against a behavioral reference model.
+
