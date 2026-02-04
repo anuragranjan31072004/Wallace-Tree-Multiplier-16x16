@@ -37,3 +37,13 @@ This project implements a high-speed 16×16 Wallace Tree Multiplier in Verilog H
 
 ## Conclusion
 The 16×16 Wallace Tree Multiplier was successfully designed, implemented, and verified. Simulation results confirm accurate functionality and improved timing performance compared to a conventional Array Multiplier. This project demonstrates a complete VLSI design flow including architecture selection, HDL implementation, simulation, and verification.
+## Simulation Results
+
+### ModelSim Workspace
+![ModelSim Workspace](images/modelsim_workspace.png)
+
+### Waveform Verification
+![Waveform Verification](images/waveform_verification.png)
+
+### Final Test Results
+![Final Test Results](images/final_test_results.png)
